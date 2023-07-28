@@ -1,0 +1,4 @@
+name: baechooSmpPlugin
+version: '${project.version}'
+main: org.holybaechu.baechoosmpplugin.BaechooSmpPlugin
+api-version: '1.20'
